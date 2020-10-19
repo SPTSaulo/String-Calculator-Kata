@@ -1,0 +1,1 @@
+StringCalculator.sln.DotSettings.user
